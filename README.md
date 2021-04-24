@@ -2,3 +2,5 @@
 - I Removed The Payload / Sender
 - DM Me On Discord 1440_#1747 If You Find Anything Else
 - I Also Added 1.0.4 That I Checked Well
+# Changelog From 1.0.4 - 1.0.5
+- Replace 1.0.4 CA With Phobos CA
